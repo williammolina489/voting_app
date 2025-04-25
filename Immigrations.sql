@@ -1,3 +1,4 @@
+--TODO: Populate dummy data
 -- 001_create_candidates.sql
 CREATE DATABASE IF NOT EXISTS voting_db;
 USE voting_db;
